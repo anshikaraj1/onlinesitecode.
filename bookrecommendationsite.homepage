@@ -1,0 +1,13 @@
+<!Doctype>
+<head><title>BookRecommander</title>
+<!head>
+<body bgcolor = "#FDF5DF">
+<h1>BEST BOOK RECOMMENDATION AT YOUR DOORSTEP!</h1>
+<hr>
+<marque width="100%" direction="left" height="40px" style="color: navy">
+Join us on an exciting adventure as we explore the pages of incredible books.&emsp; Discover the finest book suggestions right here, though which you can indulge in enjoyable reading experiences.&emsp; When in doubt read a book!
+</marque>
+<img width= "100%" src="C:\Users\DELL\OneDrive\Desktop\Website\image\imagename.jpg">
+<br>
+</body>
+</html>
